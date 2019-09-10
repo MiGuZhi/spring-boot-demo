@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Description 类描述:
- * <br/>SpringBoot的用法
+ * <br/>SpringBoot -Hello World
  * 
  * @author 刘响林  E-mail: 1358554742@qq.com
  * @version 创建时间：2018年11月26日 下午5:58:58

@@ -21,3 +21,4 @@ rand:
   uuid: ${random.uuid} #uuid 
   num: ${random.int(100)} #100内随机整数 
   num1: ${random.int(0,99)} #0-99内的随机整数
+  
