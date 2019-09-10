@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+#自定义属性
+userInfo: 
+  name: 唐糖
+  age: 27
+  sex: 女
+
+student: 
+  className: 数4
+  cno: 19810
+  userInfo:  
+    name: 唐糖
+    age: 27
+    sex: 女
+    
+#随机属性
+rand: 
+  str: ${random.value} #32位的随机字符串 
+  uuid: ${random.uuid} #uuid 
+  num: ${random.int(100)} #100内随机整数 
+  num1: ${random.int(0,99)} #0-99内的随机整数
